@@ -1,4 +1,4 @@
-# AI personalised learning RoadMap Generator
+# AI Learning Tracker
 
 # Abstract
 This project presents an AI-Based Personalized Learning Roadmap Generator that helps students learn in a structured and efficient way. Many learners use platforms like YouTube but face confusion due to unorganized content and lack of direction.
